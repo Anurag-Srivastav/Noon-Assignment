@@ -1,5 +1,5 @@
-current directory: /Users/b0300667/Documents/Projects/Noon/vendor/bundle/ruby/2.6.0/gems/bigdecimal-3.3.1/ext/bigdecimal
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20251118-4037-2zn9w3.rb extconf.rb
+current directory: /Users/b0300667/Documents/Projects/NoonTask/vendor/bundle/ruby/2.6.0/gems/bigdecimal-3.3.1/ext/bigdecimal
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20251120-48661-lc26wu.rb extconf.rb
 checking for __builtin_clz()... yes
 checking for __builtin_clzl()... yes
 checking for __builtin_clzll()... yes
@@ -19,10 +19,10 @@ checking for rb_category_warn() in ruby.h... no
 checking for RB_WARN_CATEGORY_DEPRECATED in ruby.h... no
 creating Makefile
 
-current directory: /Users/b0300667/Documents/Projects/Noon/vendor/bundle/ruby/2.6.0/gems/bigdecimal-3.3.1/ext/bigdecimal
+current directory: /Users/b0300667/Documents/Projects/NoonTask/vendor/bundle/ruby/2.6.0/gems/bigdecimal-3.3.1/ext/bigdecimal
 make "DESTDIR=" clean
 
-current directory: /Users/b0300667/Documents/Projects/Noon/vendor/bundle/ruby/2.6.0/gems/bigdecimal-3.3.1/ext/bigdecimal
+current directory: /Users/b0300667/Documents/Projects/NoonTask/vendor/bundle/ruby/2.6.0/gems/bigdecimal-3.3.1/ext/bigdecimal
 make "DESTDIR="
 compiling bigdecimal.c
 bigdecimal.c:1139:34: warning: '(' and '{' tokens introducing statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
@@ -534,6 +534,6 @@ compiling missing.c
 linking shared-object bigdecimal.bundle
 ld: warning: search path '/AppleInternal/Library/BuildRoots/1c8f7852-1ca9-11f0-b28b-226177e5bb69/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.Internal.sdk/usr/local/lib' not found
 
-current directory: /Users/b0300667/Documents/Projects/Noon/vendor/bundle/ruby/2.6.0/gems/bigdecimal-3.3.1/ext/bigdecimal
+current directory: /Users/b0300667/Documents/Projects/NoonTask/vendor/bundle/ruby/2.6.0/gems/bigdecimal-3.3.1/ext/bigdecimal
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 bigdecimal.bundle ./.gem.20251118-4037-wj9f44
+/usr/bin/install -c -m 0755 bigdecimal.bundle ./.gem.20251120-48661-mrmh9m

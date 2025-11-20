@@ -1,44 +1,20 @@
 {
-  "root": "/Users/b0300667/Documents/Projects/Noon",
-  "reactNativePath": "/Users/b0300667/Documents/Projects/Noon/node_modules/react-native",
+  "root": "/Users/b0300667/Documents/Projects/NoonTask",
+  "reactNativePath": "/Users/b0300667/Documents/Projects/NoonTask/node_modules/react-native",
   "reactNativeVersion": "0.82",
   "dependencies": {
-    "react-native-fast-image": {
-      "root": "/Users/b0300667/Documents/Projects/Noon/node_modules/react-native-fast-image",
-      "name": "react-native-fast-image",
-      "platforms": {
-        "ios": {
-          "podspecPath": "/Users/b0300667/Documents/Projects/Noon/node_modules/react-native-fast-image/RNFastImage.podspec",
-          "version": "8.6.3",
-          "configurations": [],
-          "scriptPhases": []
-        },
-        "android": {
-          "sourceDir": "/Users/b0300667/Documents/Projects/Noon/node_modules/react-native-fast-image/android",
-          "packageImportPath": "import com.dylanvann.fastimage.FastImageViewPackage;",
-          "packageInstance": "new FastImageViewPackage()",
-          "buildTypes": [],
-          "componentDescriptors": [],
-          "cmakeListsPath": "/Users/b0300667/Documents/Projects/Noon/node_modules/react-native-fast-image/android/build/generated/source/codegen/jni/CMakeLists.txt",
-          "cxxModuleCMakeListsModuleName": null,
-          "cxxModuleCMakeListsPath": null,
-          "cxxModuleHeaderName": null,
-          "isPureCxxDependency": false
-        }
-      }
-    },
     "react-native-safe-area-context": {
-      "root": "/Users/b0300667/Documents/Projects/Noon/node_modules/react-native-safe-area-context",
+      "root": "/Users/b0300667/Documents/Projects/NoonTask/node_modules/react-native-safe-area-context",
       "name": "react-native-safe-area-context",
       "platforms": {
         "ios": {
-          "podspecPath": "/Users/b0300667/Documents/Projects/Noon/node_modules/react-native-safe-area-context/react-native-safe-area-context.podspec",
+          "podspecPath": "/Users/b0300667/Documents/Projects/NoonTask/node_modules/react-native-safe-area-context/react-native-safe-area-context.podspec",
           "version": "5.6.2",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "/Users/b0300667/Documents/Projects/Noon/node_modules/react-native-safe-area-context/android",
+          "sourceDir": "/Users/b0300667/Documents/Projects/NoonTask/node_modules/react-native-safe-area-context/android",
           "packageImportPath": "import com.th3rdwave.safeareacontext.SafeAreaContextPackage;",
           "packageInstance": "new SafeAreaContextPackage()",
           "buildTypes": [],
@@ -47,71 +23,7 @@
             "RNCSafeAreaProviderComponentDescriptor",
             "RNCSafeAreaViewComponentDescriptor"
           ],
-          "cmakeListsPath": "/Users/b0300667/Documents/Projects/Noon/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt",
-          "cxxModuleCMakeListsModuleName": null,
-          "cxxModuleCMakeListsPath": null,
-          "cxxModuleHeaderName": null,
-          "isPureCxxDependency": false
-        }
-      }
-    },
-    "react-native-screens": {
-      "root": "/Users/b0300667/Documents/Projects/Noon/node_modules/react-native-screens",
-      "name": "react-native-screens",
-      "platforms": {
-        "ios": {
-          "podspecPath": "/Users/b0300667/Documents/Projects/Noon/node_modules/react-native-screens/RNScreens.podspec",
-          "version": "4.18.0",
-          "configurations": [],
-          "scriptPhases": []
-        },
-        "android": {
-          "sourceDir": "/Users/b0300667/Documents/Projects/Noon/node_modules/react-native-screens/android",
-          "packageImportPath": "import com.swmansion.rnscreens.RNScreensPackage;",
-          "packageInstance": "new RNScreensPackage()",
-          "buildTypes": [],
-          "libraryName": "rnscreens",
-          "componentDescriptors": [
-            "RNSFullWindowOverlayComponentDescriptor",
-            "RNSScreenContainerComponentDescriptor",
-            "RNSScreenNavigationContainerComponentDescriptor",
-            "RNSScreenStackHeaderConfigComponentDescriptor",
-            "RNSScreenStackHeaderSubviewComponentDescriptor",
-            "RNSScreenStackComponentDescriptor",
-            "RNSSearchBarComponentDescriptor",
-            "RNSScreenComponentDescriptor",
-            "RNSScreenFooterComponentDescriptor",
-            "RNSScreenContentWrapperComponentDescriptor",
-            "RNSModalScreenComponentDescriptor",
-            "RNSBottomTabsComponentDescriptor",
-            "RNSSafeAreaViewComponentDescriptor"
-          ],
-          "cmakeListsPath": "/Users/b0300667/Documents/Projects/Noon/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt",
-          "cxxModuleCMakeListsModuleName": null,
-          "cxxModuleCMakeListsPath": null,
-          "cxxModuleHeaderName": null,
-          "isPureCxxDependency": false
-        }
-      }
-    },
-    "react-native-vector-icons": {
-      "root": "/Users/b0300667/Documents/Projects/Noon/node_modules/react-native-vector-icons",
-      "name": "react-native-vector-icons",
-      "platforms": {
-        "ios": {
-          "podspecPath": "/Users/b0300667/Documents/Projects/Noon/node_modules/react-native-vector-icons/RNVectorIcons.podspec",
-          "version": "10.3.0",
-          "configurations": [],
-          "scriptPhases": []
-        },
-        "android": {
-          "sourceDir": "/Users/b0300667/Documents/Projects/Noon/node_modules/react-native-vector-icons/android",
-          "packageImportPath": "import com.oblador.vectoricons.VectorIconsPackage;",
-          "packageInstance": "new VectorIconsPackage()",
-          "buildTypes": [],
-          "libraryName": "RNVectorIconsSpec",
-          "componentDescriptors": [],
-          "cmakeListsPath": "/Users/b0300667/Documents/Projects/Noon/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cmakeListsPath": "/Users/b0300667/Documents/Projects/NoonTask/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -282,7 +194,7 @@
         {
           "name": "--path <path>",
           "description": "Path to the React Native project root.",
-          "default": "/Users/b0300667/Documents/Projects/Noon/ios"
+          "default": "/Users/b0300667/Documents/Projects/NoonTask/ios"
         },
         {
           "name": "--platform <string>",
@@ -582,19 +494,19 @@
   "assets": [],
   "project": {
     "ios": {
-      "sourceDir": "/Users/b0300667/Documents/Projects/Noon/ios",
+      "sourceDir": "/Users/b0300667/Documents/Projects/NoonTask/ios",
       "xcodeProject": {
-        "name": "Noon.xcworkspace",
+        "name": "NoonTask.xcodeproj",
         "path": ".",
-        "isWorkspace": true
+        "isWorkspace": false
       },
       "assets": []
     },
     "android": {
-      "sourceDir": "/Users/b0300667/Documents/Projects/Noon/android",
+      "sourceDir": "/Users/b0300667/Documents/Projects/NoonTask/android",
       "appName": "app",
-      "packageName": "com.noon",
-      "applicationId": "com.noon",
+      "packageName": "com.noontask",
+      "applicationId": "com.noontask",
       "mainActivity": ".MainActivity",
       "assets": []
     }

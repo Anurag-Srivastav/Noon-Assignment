@@ -93,7 +93,7 @@ checked program was:
 ld: warning: search path '/AppleInternal/Library/BuildRoots/1c8f7852-1ca9-11f0-b28b-226177e5bb69/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.Internal.sdk/usr/local/lib' not found
 Undefined symbols for architecture arm64:
   "_rb_enc_interned_str", referenced from:
-      _t in conftest-8dafb9.o
+      _t in conftest-56a5af.o
 ld: symbol(s) not found for architecture arm64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
